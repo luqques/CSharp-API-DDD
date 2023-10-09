@@ -1,0 +1,12 @@
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\bin\Debug\net7.0\Service.deps.json
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\bin\Debug\net7.0\Service.dll
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\bin\Debug\net7.0\Service.pdb
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.dll
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\refint\Service.dll
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\Service.pdb
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Service\obj\Debug\net7.0\ref\Service.dll

@@ -1,0 +1,12 @@
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\bin\Debug\net7.0\Domain.dll
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\bin\Debug\net7.0\Domain.pdb
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.dll
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\Domain.pdb
+D:\CSharp\Udemy_API_CSharp\curso_api_netcore\src\Api.Domain\obj\Debug\net7.0\ref\Domain.dll
